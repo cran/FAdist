@@ -1,5 +1,4 @@
-93dbdded1badac477de3338ad6fe62a8 *DESCRIPTION
-65c8759b8c13310a96da7fc65c5abdd9 *INDEX
+16b61568f1a8f8809a5d88711e6ff970 *DESCRIPTION
 7417340a9118beb9af95e82fcb24b379 *NAMESPACE
 1abb77717e390d1021a274bc45e4dd25 *R/dgamma3.R
 604fbdb3b9c4b7302853d6464bcffb90 *R/dgev.R
@@ -12,8 +11,10 @@ a51b8f684565a01f247d341cdbaa3e13 *R/dllog.R
 22adb35f3aebeb8f8cb2f707ea8397e7 *R/dllog3.R
 222af581bb5698ec68463b5db952177d *R/dlnorm3.R
 97cdc2dbadd5c76a0d224c195bf3622b *R/dweibull3.R
+12ea4ef6bc89a0264d2b67a995d25044 *R/expand.args.R
 2c318afcd4f5d3108367a17871d896a0 *R/pgamma3.R
 a8ba1e015a00ecbaeba35258289b6bb3 *R/pgev.R
+118d5c0ef4165ac9edd0309730bf46f7 *R/pgev2.R
 afbe564c495fc5494dda1314f1408c56 *R/pgp.R
 49a53a09f9c7c9a3b166c7c1eaa2c3a2 *R/pgumbel.R
 6605f98ca72bf2f715a0818223470171 *R/pkappa.R
@@ -24,7 +25,8 @@ eafe879fc0a0d241136bdf913b16542e *R/pllog.R
 b4e47bd3f6d329955ff8ea1d622db595 *R/plnorm3.R
 55017be0f709ab91ad48eb1162e3abfd *R/pweibull3.R
 6fb78712ddc6397af99b8e9b9a3ad19a *R/qgamma3.R
-2d42ef427a6aadfc52fdb9cec11f2dcf *R/qgev.R
+9cebae63c1326e6ba4438a2a0c91c919 *R/qgev.R
+1a6ac5f816959ba2dffb9381012ba0fe *R/qgev2.R
 4c0b4042a9762a4fb0cbf28789494204 *R/qgp.R
 ebb1932d28b4b2dbee20b4483a2aab1f *R/qgumbel.R
 610b121c93aa8fc412d56950ee9b0d93 *R/qkappa.R
@@ -35,7 +37,7 @@ b6022aa6a1abf2212a659284e0f33360 *R/qllog3.R
 ab4ae815298ee30e06733c9e57721bdb *R/qlnorm3.R
 d6d9078bb2ff456ac95e1be7bf684a50 *R/qweibull3.R
 546fb27fdacb206f38e3cf5aa6413d03 *R/rgamma3.R
-d450ec9ba16e2768ee3feb1f4e288042 *R/rgev.R
+24fc1b3ec634c775db44673410065803 *R/rgev.R
 09da10b2dc18bacc4aff08556dfe79d7 *R/rgp.R
 6b5e1bb1e2622cec859b1f17f941cd6d *R/rgumbel.R
 2f6c4507aea2f383120d67f5ad6a9060 *R/rkappa.R
@@ -45,7 +47,7 @@ e396cce51555cad1b6d2bb079755b1d0 *R/rllog.R
 27797cc690484f3602258870a5805989 *R/rllog3.R
 f9dfa298ed94e6db54ebd027de38d206 *R/rlnorm3.R
 47e415c145e0e4cbb7b4ea5c2a30d8c0 *R/rweibull3.R
-30440bb6c8410013c622b806c7f5e7d8 *README.md
+1626dbb7f6bf8c5475c14549b2fb8d47 *man/FAdist-internal.Rd
 a9dacc7a838648ac7b4ca9b1687f693b *man/FAdist-package.Rd
 31729a360a182ed9ca4a1dea095de10b *man/GAMMA3.Rd
 4d3ff85265a5507763a1ffe0164c7a66 *man/GEV.Rd
